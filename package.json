@@ -1,0 +1,9 @@
+{
+  "name": "fax-academy-google-sheet-to-notion",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "node sync.js"
+  }
+}
