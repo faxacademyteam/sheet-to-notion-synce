@@ -3,7 +3,7 @@ name: Sync Google Sheet to Notion
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '0 8 * * *'
 
 jobs:
   sync:
